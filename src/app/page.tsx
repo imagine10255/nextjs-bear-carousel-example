@@ -1,7 +1,6 @@
 'use client'
 
 import Image from 'next/image'
-import "bear-react-carousel/dist/index.css";
 import dynamic from 'next/dynamic';
 
 const Carousel = dynamic(() => import('../components/Carousel'), {
