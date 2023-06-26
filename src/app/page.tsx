@@ -1,11 +1,8 @@
 'use client'
 
 import Image from 'next/image'
-import dynamic from 'next/dynamic';
+import Carousel2 from '../components/Carousel2';
 
-const Carousel = dynamic(() => import('../components/Carousel'), {
-  ssr: false,
-});
 
 export default function Home() {
 
@@ -46,7 +43,7 @@ export default function Home() {
         {/*  height={37}*/}
         {/*  priority*/}
         {/*/>*/}
-        <Carousel/>
+        <Carousel2/>
 
       </div>
 

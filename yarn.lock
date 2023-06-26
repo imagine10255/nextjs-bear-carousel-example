@@ -440,10 +440,10 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
-bear-react-carousel@4.0.9-aplha.0:
-  version "4.0.9-aplha.0"
-  resolved "https://registry.yarnpkg.com/bear-react-carousel/-/bear-react-carousel-4.0.9-aplha.0.tgz#c295bd8cc8204f1b5247f66a43a58639918b7ce1"
-  integrity sha512-UoE60skyBpFPOyQce6NomHcpgynh4stcJN8flc/nXEZ+wqzoP5X8ZWDLMJEwpegN54yERqsolLiXLrbV85hxNg==
+bear-react-carousel@4.0.9-aplha.1:
+  version "4.0.9-aplha.1"
+  resolved "https://registry.yarnpkg.com/bear-react-carousel/-/bear-react-carousel-4.0.9-aplha.1.tgz#74c65a8691890ce4897149ada5fdddae2aaedafe"
+  integrity sha512-yOD/URIRyFLt047g0/mFt2gzah8+1g0jKmsuONO+IOqRmK0yd7vJJ9pLLy8MAjlv2CGSU0ucnSEqfLVSLhCkmQ==
   dependencies:
     react "^18.x"
     react-dom "^18.x"
