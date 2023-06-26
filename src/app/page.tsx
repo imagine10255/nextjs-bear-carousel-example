@@ -1,6 +1,12 @@
+'use client'
+
 import Image from 'next/image'
 import "bear-react-carousel/dist/index.css";
-import Carousel from '@/components/Carousel';
+import dynamic from 'next/dynamic';
+
+const Carousel = dynamic(() => import('../components/Carousel'), {
+  ssr: false,
+});
 
 export default function Home() {
 
